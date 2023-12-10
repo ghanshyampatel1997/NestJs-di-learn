@@ -1,0 +1,11 @@
+Initialize repository named di by below command.
+    nest new di
+Create contoller module by below command
+    nest g module computer
+    nest g module cpu
+    nest g module disk
+    nest g module power
+    nest g service cpu
+    nest g service disk
+    nest g service power
+    nest g controller computer
